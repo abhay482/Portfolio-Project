@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "c:\\Users\\abhay\\OneDrive\\Desktop\\myenv\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\abhay\\.virtualenvs\\Portfolio-lRkiSvXh\\Scripts\\python.exe",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+   ]
 }
